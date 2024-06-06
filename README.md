@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Lara 👋
+
+Currently on the 2nd year of Bachelor's Degree in Informatics and Computing Engineering, at Faculty of Engineering of the University Of Porto.
+
+## Github Stats and Languages
+
+ ![My GitHub stats](https://github-readme-stats-git-master-laras-projects-ddc97dac.vercel.app/api?username=larampc&show_icons=true&theme=prussian&count_private=true) 
+ ![Top Languages](https://github-readme-stats-git-master-laras-projects-ddc97dac.vercel.app/api/top-langs?username=larampc&show_icons=true&theme=prussian&count_private=true&layout=compact)
 
 <!--
 **larampc/larampc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
